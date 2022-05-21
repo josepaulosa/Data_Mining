@@ -21,14 +21,14 @@ For a reproducible and interactive preview &rarr; [![Open In Colab](https://cola
     - Histograms of all variables and correlation between all features 
 - Feature Selection (considering the conclusions drawn from EDA)
 - Standardize 
-- Detect Global Outliers (if < -3 or >3)
+- Detect and Remove Global Outliers (if < -3 or >3)
 - Normalize (to convert to [0, 1])
 - Feature Extraction with **`PCA`** (extraction of new, orthogonal - independent - features, which are a linear combination of the original ones)
 - PCA Features Contribution to Cumulative Explained Variance 
 <br><br>
 
 &rarr; **CLUSTERING**
-- **`Silhouette Analysis`** for Finding the Optimal Number of Clusters
+- **`Silhouette Analysis`** (for finding the optimal number of clusters)
 - **`Clustering`** with K-Means and Gaussian Mixture Algorithms
 - Choose between K-Means and Gaussian Mixture to Predict the Labels
 <br><br>
