@@ -34,5 +34,5 @@ For a reproducible and interactive preview &rarr; [![Open In Colab](https://cola
 <br><br>
 
 &rarr; **CLASSIFICATION**
-- **`Classification`** with **`K-NN`** and **`SVM`**, using **`Hyperparameter Tuning`** with  **`GridSeachCV`**
+- Classification with K-NN and SVM, using **`Hyperparameter Tuning`** with  **`GridSeachCV`**
 - Classification Report
