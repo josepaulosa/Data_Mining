@@ -16,11 +16,14 @@ For a reproducible and interactive preview &rarr; [![Open In Colab](https://cola
 ### Tasks:
 &rarr; **PRE-PROCESSSING**
 - EDA 
-- Feature Selection
+    - Descriptive statistics
+    - Check if there is any null data
+    - Histograms of all variables and correlation between all features 
+- Feature Selection (considering the conclusions drawn from EDA)
 - Standardize 
-- Detect Global Outliers
-- Normalize
-- Feature Extraction with **`PCA`**
+- Detect Global Outliers (if < -3 or >3)
+- Normalize (to convert to [0, 1])
+- Feature Extraction with **`PCA`** (extraction of new, orthogonal - independent - features, which are a linear combination of the original ones)
 - PCA Features Contribution to Cumulative Explained Variance 
 <br><br>
 
