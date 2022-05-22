@@ -39,4 +39,4 @@ For a reproducible and interactive preview &rarr; [![Open In Colab](https://cola
 - - - - 
 ### Achievements:
 - Two  **distinct groups of data points** - **clusters** - were **clearly identified within** the **dataset** (**summer** and **winter** days). 
-- **Using** the **resulting cluster labels** we **trained 2 classifiers**  using **hyperparameter tuning** with  **GridSeachCV** which allowed us to **reach very high values** for **all the considered metrics**.
+- **Using** the **resulting cluster labels** we **trained 2 classifiers**  using **hyperparameter tuning** with  **GridSeachCV** which allowed us to **reach very high values** for **all considered metrics**.
