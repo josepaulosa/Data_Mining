@@ -18,7 +18,7 @@ For a reproducible and interactive preview &rarr; [![Open In Colab](https://cola
 - EDA 
     - Descriptive statistics
     - Check if there is any null data
-    - Histograms of all variables and correlation between all features 
+    - Histograms of all features and correlation between all features 
 - Feature Selection (considering the conclusions drawn from EDA)
 - Standardize 
 - Detect and Remove Global Outliers (if < -3 or >3)
