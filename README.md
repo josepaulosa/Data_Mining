@@ -9,7 +9,7 @@ For a reproducible and interactive preview &rarr; [![Open In Colab](https://cola
 > - As in **industries and in the academic environment** the term data mining is often used to refer to the **`entire knowledge discovery process`** we’ll **adopt this broader view of data mining**.
 - - - 
 ### Dataset:
-&rarr; The unlabeled data is a subset of publicly available (from https://www.meteoblue.com/) data about climate in Basel, Switzerland, which contains 1763 records of data (for 18 features) from the summer and the winter seasons from 2010 to 2019 period.
+&rarr; The **unlabeled data is a subset of publicly available** (from https://www.meteoblue.com/) **data about climate in Basel, Switzerland**, which contains 1763 records of data (for 18 features) from the summer and the winter seasons from 2010 to 2019 period and **can be found** [here](https://github.com/josepaulosa/Data_Mining/blob/main/Data.txt)
 
 &rarr; The meaning of each column of data is listed in the notebook.
 - - - 
