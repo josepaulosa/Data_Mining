@@ -2,7 +2,7 @@
 
 - - - 
 
-For a reproducible and interactive preview &rarr; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josepaulosa/Data_Mining/blob/main/Data_Mining.ipynb)
+For a reproducible preview &rarr; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josepaulosa/Data_Mining/blob/main/Data_Mining.ipynb)
 - - - 
 
 > - Data mining is an **`interdisciplinary`** (intersection of machine learning, statistics, and database systems) **field of knowledge**. 
